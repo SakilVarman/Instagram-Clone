@@ -1,0 +1,204 @@
+{
+  "posts": [
+    {
+      "id": "1",
+      "user": {
+        "id": 1,
+        "name": "John",
+        "profile_pic": "https://randomuser.me/api/portraits/men/1.jpg"
+      },
+      "image": "https://picsum.photos/id/101/500/500",
+      "caption": "Hello, world!",
+      "likes": 120,
+      "comments": [
+        {
+          "user": "Alice",
+          "comment": "Nice photo!"
+        },
+        {
+          "user": "Bob",
+          "comment": "Great shot!"
+        }
+      ],
+      "timestamp": "2022-01-01T12:00:00.000Z"
+    },
+    {
+      "id": "3",
+      "user": {
+        "id": 3,
+        "name": "Paul",
+        "profile_pic": "https://randomuser.me/api/portraits/men/3.jpg"
+      },
+      "image": "https://picsum.photos/id/103/500/500",
+      "caption": "Chilling with friends 😎",
+      "likes": 212,
+      "comments": [
+        {
+          "user": "Arjun",
+          "comment": "🔥🔥🔥"
+        },
+        {
+          "user": "Divya",
+          "comment": "Cool!"
+        }
+      ],
+      "timestamp": "2022-01-04T16:30:00.000Z"
+    },
+    {
+      "id": "5",
+      "user": {
+        "id": 5,
+        "name": "Ravi",
+        "profile_pic": "https://randomuser.me/api/portraits/men/5.jpg"
+      },
+      "image": "https://picsum.photos/id/105/500/500",
+      "caption": "Throwback to the beach 🏖️",
+      "likes": 175,
+      "comments": [
+        {
+          "user": "Kumar",
+          "comment": "Nice view!"
+        }
+      ],
+      "timestamp": "2022-01-06T14:45:00.000Z"
+    },
+    {
+      "id": "7",
+      "user": {
+        "id": 7,
+        "name": "Arjun",
+        "profile_pic": "https://randomuser.me/api/portraits/men/7.jpg"
+      },
+      "image": "https://picsum.photos/id/107/500/500",
+      "caption": "Street food hits different 🍜",
+      "likes": 99,
+      "comments": [
+        {
+          "user": "Sita",
+          "comment": "Yumm!"
+        }
+      ],
+      "timestamp": "2022-01-08T11:00:00.000Z"
+    },
+    {
+      "id": "9",
+      "user": {
+        "id": 9,
+        "name": "Vikram",
+        "profile_pic": "https://randomuser.me/api/portraits/men/9.jpg"
+      },
+      "image": "https://picsum.photos/id/109/500/500",
+      "caption": "Night vibes 🌃",
+      "likes": 147,
+      "comments": [
+        {
+          "user": "Priya",
+          "comment": "Cool lighting!"
+        }
+      ],
+      "timestamp": "2022-01-10T22:00:00.000Z"
+    }
+  ],
+  "profile": {
+    "id": 1,
+    "name": "Sakil_Varman",
+    "profile_pic": "src/assets/story6.jpg"
+  },
+  "suggestions": [
+    {
+      "id": "3",
+      "name": "Paul",
+      "profile_pic": "https://randomuser.me/api/portraits/men/3.jpg"
+    },
+    {
+      "id": "5",
+      "name": "Ravi",
+      "profile_pic": "https://randomuser.me/api/portraits/men/5.jpg"
+    },
+    {
+      "id": "9",
+      "name": "Vikram",
+      "profile_pic": "https://randomuser.me/api/portraits/men/9.jpg"
+    },
+    {
+      "id": "7",
+      "name": "Arjun",
+      "profile_pic": "https://randomuser.me/api/portraits/men/7.jpg"
+    },
+    {
+      "id": "8",
+      "name": "Dev",
+      "profile_pic": "https://randomuser.me/api/portraits/men/8.jpg"
+    }
+  ],
+  "story": [
+    {
+      "id": "1",
+      "user": {
+        "id": 1,
+        "name": "John",
+        "profile_pic": "https://randomuser.me/api/portraits/men/1.jpg"
+      },
+      "image": "https://wallpaperbat.com/img/640415-nature-wallpaper-vertical.jpg"
+    },
+    {
+      "id": "2",
+      "user": {
+        "id": 2,
+        "name": "Paul",
+        "profile_pic": "https://randomuser.me/api/portraits/men/3.jpg"
+      },
+      "image": "https://th.bing.com/th/id/OIP.cir9NmaAcqkDoEwdfwmX9AHaNE?w=206&h=326&c=7&r=0&o=7&dpr=1.3&pid=1.7&rm=3"
+    },
+    {
+      "id": "3",
+      "user": {
+        "id": 3,
+        "name": "Ravi",
+        "profile_pic": "https://randomuser.me/api/portraits/men/5.jpg"
+      },
+      "image": "https://wallpapercave.com/wp/wp7742995.jpg"
+    },
+    {
+      "id": "4",
+      "user": {
+        "id": 4,
+        "name": "Arjun",
+        "profile_pic": "https://randomuser.me/api/portraits/men/7.jpg"
+      },
+      "image": "https://images.pexels.com/photos/19979603/pexels-photo-19979603.jpeg?cs=srgb&dl=pexels-joshuaworoniecki-19979603.jpg&fm=jpg"
+    },
+    {
+      "id": "5",
+      "user": {
+        "id": 5,
+        "name": "Vikram",
+        "profile_pic": "https://randomuser.me/api/portraits/men/9.jpg"
+      },
+      "image": "https://wallpaperaccess.com/full/8177644.jpg"
+    }
+  ],
+  "followers": [
+    {
+      "id": "1",
+      "name": "Aarav Mehta",
+      "profile_pic": "src/assets/pic1.png"
+    },
+    {
+      "id": "5",
+      "name": "Ravi"
+    },
+    {
+      "id": "3",
+      "name": "Paul"
+    },
+    {
+      "id": "7",
+      "name": "Arjun"
+    },
+    {
+      "id": "8",
+      "name": "Dev"
+    }
+  ]
+}
